@@ -4,7 +4,7 @@ A modern and responsive portfolio website for photographers. Developed with Reac
 
 ## Project Screenshots
 <div align="center">
-  <img src="https://github.com/mustafakaracuha/building-landing-page/blob/main/src/assets/screenshots/1.png" alt="photographer site" width="100%" style="margin-right: 2%;">
+  <img src="https://github.com/mustafakaracuha/photographer-landing-page/blob/main/src/assets/screenshots/1.png" alt="photographer site" width="100%" style="margin-right: 2%;">
 </div>
 
 ## 🚀 Features
