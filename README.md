@@ -1,4 +1,4 @@
-# Lumina Fotografcilik Website 📸
+# Lumina Photography Website 📸
 
 A modern and responsive portfolio website for photographers. Developed with React.js and Tailwind CSS.
 
